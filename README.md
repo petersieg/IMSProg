@@ -1,4 +1,4 @@
-## DMG
+## IMSProg_app.dmg
 
 Compiled under Sonoma.
 
