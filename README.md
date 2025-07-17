@@ -1,3 +1,18 @@
+## Release IMSProg.dmg
+
+Find it under Releases!. Contains only IMSProg.app and Dat File. Compiled under Big Sur.
+
+Build App from information given here: https://stackoverflow.com/questions/1596945/building-osx-app-bundle
+
+and using this tool: https://github.com/auriamg/macdylibbundler 
+
+DMG build with hdd tool from folder
+
+Read readme.txt to copy IMSProg.Dat to $HOME/.local/share/imsprog/
+
+Tested to run under Sonoma and Sequoia. Should also run under Monterrey and Ventura.
+
+
 ## IMSProg_app.dmg
 
 Compiled under Sonoma.
