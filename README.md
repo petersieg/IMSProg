@@ -12,7 +12,7 @@ DMG build with hdd tool from folder
 
 Runs also under Sonoma. Expected to run fom Big Sur up to ..
 
-Read readme.txt tp copy IMSProg.Dat and more to $HOME/.local/share/imsprog/*
+Read readme.txt to copy IMSProg.Dat and more to $HOME/.local/share/imsprog/*
 
 
 ## IMSProg
