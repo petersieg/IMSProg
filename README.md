@@ -1,3 +1,20 @@
+## DMG
+
+Compiled under Big Sur.
+
+Build App from information given here: https://stackoverflow.com/questions/1596945/building-osx-app-bundle
+
+and using this tool: https://github.com/auriamg/macdylibbundler - BUT:
+
+make clean_all; make sdl_release; then use dylibbundler for executable game_sdl! After that do: cat game_sdl assets.qop > biolab; chmod 755 biolab
+
+DMG build with hdd tool from folder
+
+Runs also under Sonoma. Expected to run fom Big Sur up to ..
+
+Read readme.txt tp copy IMSProg.Dat and more to $HOME/.local/share/imsprog/*
+
+
 ## IMSProg
 
 <img align="right" src="img/mini_logo_IMSProg.svg">
